@@ -1,0 +1,9 @@
+[submodule "FigureGen"]
+	path = submodules/FigureGen
+	url = https://github.com/ccht-ncsu/FigureGen.git
+[submodule "Kalpana"]
+	path = submodules/Kalpana
+	url = https://github.com/ccht-ncsu/Kalpana.git
+[submodule "LPT"]
+	path = submodules/LPT
+	url = https://github.com/ccht-ncsu/LPT.git
